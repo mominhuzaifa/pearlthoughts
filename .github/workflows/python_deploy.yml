@@ -1,4 +1,4 @@
-# .github/workflows/python_app_deploy.yml
+# .github/workflows/python_deploy.yml
 
 name: Python App Deployment
 
